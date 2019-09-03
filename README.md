@@ -57,6 +57,7 @@ __
 [Praketa Saxena](https://github.com/kethsaxena)<br/>
 [Vsevolod Zhoha](https://github.com/ZhohaVs/)<br/>
 [Deepthi Buduru](https://www.github.com/deepbud)<br/>
+[Akiko Ichinohe](https://github.com/aichinohe123/)</br>
 Elif Demir
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
